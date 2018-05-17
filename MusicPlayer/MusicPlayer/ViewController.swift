@@ -22,7 +22,18 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+     
+    @IBAction func touchupPlayPauseButton(_ sender: UIButton){
+        
+        print("button pressed")
+    }
 
-
+    @IBAction func sliderValueChanged(_ sender: UISlider) {
+        
+        print("slider value changed")
+    }
+    
 }
+
+
 
