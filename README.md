@@ -17,3 +17,8 @@
 
 [MusicPlayer](https://github.com/shindk8659/BoostCourse-iOS/tree/master/MusicPlayer)
 
+---
+
+# 공부한날 Cheak
+
+5/12 5/14 5/17 5/18
